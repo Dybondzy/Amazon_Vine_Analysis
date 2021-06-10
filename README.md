@@ -143,6 +143,9 @@ The data is filtered to create a DataFrame or table where the percentage of help
 The data is filtered to create a DataFrame or table where there is a Vine review (5 pt)
 The data is filtered to create a DataFrame or table where there isn’t a Vine review (5 pt)
 The total number of reviews, the number of 5-star reviews, and the percentage 5-star reviews are calculated for all Vine and non-Vine reviews (15 pt)
+
+! https://github.com/Dybondzy/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb
+
 Deliverable 3: A Written Report on the Analysis (20 points)
 Deliverable 3 Instructions
 For this part of the Challenge, you’ll write a report that summarizes the analysis you performed in Deliverable 2.
@@ -187,8 +190,11 @@ Deliverable 1: Perform ETL on Amazon Product Reviews
 Deliverable 2: Determine Bias of Vine Reviews
 Deliverable 3: A Written Report on the Analysis (README.md)
 Upload the following to your Amazon_Vine_Analysis GitHub repository:
+! https://github.com/Dybondzy/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb
 
 Your Amazon_Reviews_ETL.ipynb file.
+! V
+
 Your Vine_Review_Analysis.ipynb or Vine_Review_Analysis.sql file.
 An updated README.md that has your written analysis.
 To submit your challenge assignment in Canvas, click Submit, then provide the URL of your Amazon_Vine_Analysis GitHub repository for grading.
