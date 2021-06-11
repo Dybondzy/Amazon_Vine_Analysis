@@ -90,7 +90,7 @@ IMPORTANT
 Before uploading anything to GitHub be sure to remove all sensitive information such as passwords and connection strings. If you have accidentally done so already see this link (Links to an external site.) for more information.
 
 When you’re done, export your Amazon_Reviews_ETL Google Colab Notebook as an ipynb file, and save it to your Amazon_Vine_Analysis GitHub repository.
-
+! https://github.com/Dybondzy/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb
 
 Deliverable 1 Requirements
 You will earn a perfect score for Deliverable 1 by completing all requirements below:
@@ -193,8 +193,10 @@ Upload the following to your Amazon_Vine_Analysis GitHub repository:
 ! https://github.com/Dybondzy/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb
 
 Your Amazon_Reviews_ETL.ipynb file.
-! V
+! https://github.com/Dybondzy/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb
 
 Your Vine_Review_Analysis.ipynb or Vine_Review_Analysis.sql file.
 An updated README.md that has your written analysis.
+! https://github.com/Dybondzy/Amazon_Vine_Analysis/edit/main/README.md
+
 To submit your challenge assignment in Canvas, click Submit, then provide the URL of your Amazon_Vine_Analysis GitHub repository for grading.
