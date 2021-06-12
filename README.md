@@ -14,6 +14,8 @@ This new assignment consists of two technical analysis deliverables and a writte
 Deliverable 1: Perform ETL on Amazon Product Reviews
 Deliverable 2: Determine Bias of Vine Reviews
 Deliverable 3: A Written Report on the Analysis (README.md)
+! https://github.com/Dybondzy/Amazon_Vine_Analysis/edit/main/README.md
+
 Files
 Use the following links to download the Challenge starter codes.
 
@@ -127,6 +129,8 @@ From pgAdmin, export the vine_table as a CSV file, and save it to your Amazon_Vi
 Create a new Jupyter Notebook, and name it Vine_Review_Analysis.ipynb.
 Read in the vine_table.csv file as a DataFrame, and perform your analysis using the steps above.
 Save your Vine_Review_Analysis.ipynb file to your Amazon_Vine_Analysis GitHub repository.
+! https://github.com/Dybondzy/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_Analysis.ipynb
+
 Using SQL in pgAdmin
 From your AWS database, export the vine_table as a CSV file and save it to your Amazon_Vine_Analysis GitHub repository.
 In pgAdmin, create a new database that is not linked to your AWS RDS instance. This way, you don’t have to keep incurring charges while connected to your AWS RDS instance.
@@ -191,7 +195,7 @@ Deliverable 1: Perform ETL on Amazon Product Reviews
 Deliverable 2: Determine Bias of Vine Reviews
 Deliverable 3: A Written Report on the Analysis (README.md)
 Upload the following to your Amazon_Vine_Analysis GitHub repository:
-! https://github.com/Dybondzy/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb
+! https://github.com/Dybondzy/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_Analysis.ipynb
 
 Your Amazon_Reviews_ETL.ipynb file.
 ! https://github.com/Dybondzy/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb
