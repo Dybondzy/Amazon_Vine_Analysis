@@ -42,6 +42,7 @@ In pgAdmin, create a new database in your Amazon RDS server that you just create
 Download the challenge_schema.sql file to your computer.
 
 In pgAdmin, run a new query to create the tables for your new database using the code from the challenge_schema.sql file.
+! https://github.com/Dybondzy/Amazon_Vine_Analysis/blob/main/PGAdmin_AWS.png
 
 After you run the query, you should have the following four tables in your database: customers_table, products_table, review_id_table, and vine_table.
 Download the Amazon_Reviews_ETL_starter_code.ipynb file, then upload the file as a Google Colab Notebook, and rename it Amazon_Reviews_ETL.
